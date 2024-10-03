@@ -13,7 +13,7 @@
 muhammad-asif-486388328
 
  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehtisham40" height="30" width="40" /></a>
-<a href="[https://fb.com/ehtisham40"](https://www.facebook.com/asif.khankhichi.143?mibextid=kFxxJD) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehtisham40" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/asif.khankhichi.143?mibextid=kFxxJD) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehtisham40" height="30" width="40" /></a>
 <a href="https://instagram.com/ehtisham40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehtisham40" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ehtisham40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ehtisham40" height="30" width="40" /></a>
 </p>
